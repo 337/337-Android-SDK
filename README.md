@@ -2,7 +2,7 @@
 
 ***
 
-###下载地址：[2.2.4版本](https://github.com/337/337-Android-SDK/releases)
+###下载地址：[最新版本](https://github.com/337/337-Android-SDK/releases)
 
 ###接入文档：[接入文档](https://github.com/337/337-Android-SDK/wiki)
 
